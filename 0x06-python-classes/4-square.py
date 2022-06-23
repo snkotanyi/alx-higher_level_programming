@@ -4,6 +4,7 @@ classes and object
 """
 
 
+
 class Square:
     """ A class that defines a square by its size
     """
